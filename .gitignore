@@ -1,0 +1,16 @@
+# Entorno virtual
+entorno/
+
+# Archivos de desarrollo (ejemplo para Python)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Variables de entorno
+.env
+.env.local
+
+# Si usas Node.js (frontend)
+node_modules/
+dist/
